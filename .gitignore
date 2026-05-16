@@ -44,3 +44,8 @@ next-env.d.ts
 public/hls/
 public/hls_encrypted/
 public/hls_content/
+
+# Generated HLS content
+public/hls/
+public/hls_encrypted/
+public/hls_content/
