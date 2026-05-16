@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Generated HLS content — too large, not source
+public/hls/
+public/hls_encrypted/
+public/hls_content/
